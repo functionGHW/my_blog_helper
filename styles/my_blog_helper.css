@@ -1,0 +1,18 @@
+/* functionghw's Bolg Helper
+ * File:        my_blog_helper.css
+ * Version:     v1.0
+ * Coder:       functionghw (functionghw at hotmial dot com)
+ * Created:     2013-12-18
+ * Last Change: 2013-12-18 20:50:48
+ * 
+ * */
+
+#editor {
+    font-size: 1.2em; 
+    font-family: Consolas; 
+    width: 98%; 
+    height: 90%; 
+    margin:1px 4px;
+}
+
+

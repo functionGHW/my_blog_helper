@@ -1,0 +1,8 @@
+Just a personal tool.
+It parses the html code immediately to give a preview.
+
+Require:    MathJax and SyntaxHigjlight plugins(Download and setup yourself)
+            jQuery(Already have one, you may use another version)
+            webox(I found it on the Internet somewhere)
+            a container(body, div, etc...) whose id is "preview" in your page
+
